@@ -153,10 +153,86 @@
 
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/f375bb92-a8d7-43b8-a00a-7e0c718a2659)
 
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/a467c077-a44f-4370-a71c-8862f28b270c)
+
+
 <br><br>
 
 * 수량에 맞춰 버튼 클릭시 가격 자동변경
 * 구매
 * 장바구니
 * 관심내역
-* 
+* 상품에 대한 qna 게시판
+* 주제별 검색기능
+
+<br><br>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/82aebc4d-87a7-4bea-b43a-6acb88168fdd)
+
+<br><br>
+
+* 해당 사진 썸네일 출력
+* 수량 개수에 맞춰 db 에 저장 (환불시 재고 Update)
+* 삭제
+
+<br><br>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/47c44df7-27bb-4bd5-91f5-7965cc4a0ca8)
+
+<br><br>
+
+* 배송지 미입력시 주문처리 안되도록 유효성 검사
+* 주소 저장 클릭시 회원정보 변경
+* 삭제
+
+<br><br>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/ee6cf2f6-e896-4fe4-884b-ecce287fcfa5)
+
+
+
+<br><br>
+
+* 결제수단 선택해서 결제 가능
+* 개수에 따라 결제금액 변경
+* 결제하면 알림 창
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/935067c7-68a7-4961-b594-7b6461c2ce72)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/1a321965-3568-464d-9e78-2bd8b6b22aed)
+
+<br><br>
+
+* 카카오페이, 한국정보통신결제를 통해 결제기능 구현
+
+<br><br>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/9531dbfb-5cdc-4082-a25b-41e75d935b3c)
+
+<br><br>
+
+* 주문 상태가 배송완료 가 되면 리뷰작성 가능할수 있도록 구현(회원주문 -> 관리자가 주문상태 처리-> 회원 리뷰작성 권한)
+* 환불 신청 요청시 관리자가 확인후 주문상태 처리 및 재고 수량 Update
+* 주문 상세보기
+
+<br><br>
+
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/3d34db9c-c6ab-41bf-a02b-f882ddc6461a)
+
+<br><br>
+
+* 정보 확인 가능
+* 주문 상태 연동
+
+<br><br>
+
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/73c0851d-3869-4eb1-a512-ee9e38460cee)
+
+<br><br>
+
+* 별점 (총 개수의 별점 평균치를 구하여 기능 구현)
+* 사진 업로드 기능
+
+<br><br>
+
