@@ -11,7 +11,7 @@
 
 ><h1>개발환경</h1>
 
-> <h2>IDE & Tools</h2>
+<h2>IDE & Tools</h2>
 <div style="background-color👨‍👩‍👧">
   
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/1050d6ee-18ca-49ee-8c1c-648f4df81cb0)
@@ -24,20 +24,30 @@
 <h3>Programming Language</h3>
 
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/eb753610-73c3-4905-ae9d-392ff62edac8)
-
-<h3>Programming Language</h3>
-
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/8b626ad9-484c-442c-aa5d-e4644c1ceaed)
+
 
 <h3>Markup Language</h3>
 
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/4111e13d-bc84-4b01-b444-077621802d38)
 
 <h3>Stylesheet Language</h3>
 
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/f0ae14bd-642d-48db-8abb-c3b71a59f48a)
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/dd6a52a3-5769-4880-8ca4-94fbddd7a14f)
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/6c541a3b-f024-4b11-8098-15141bcb21d1)
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/73b6dcfc-7a52-428c-b640-e631a5d72e4c)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/3ac5fb84-5c51-4992-bf07-42fb4f78ea71)
 
 
+<h2>Framework & Libraries</h2>
 
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/90cadd77-2aec-48c3-b72e-2d354cfbf1a4)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/48e9981b-9a49-4da2-ae94-68037fbe0636)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/4c8d4b3d-c700-4549-9f37-1ec1eec74ae6)
+
+
+<h2>Database Management System</h2>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/3edff365-d266-47c9-8ac3-baf030a886b2)
+
+
+<h2>Web Development Technologies</h2>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/37c15f37-442b-4c35-b09d-c624486369e0)
