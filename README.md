@@ -11,9 +11,22 @@
 
 <h1>개발환경</h1>
 
-
+<h2>IDE & Tools</h2>
 
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/1050d6ee-18ca-49ee-8c1c-648f4df81cb0)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/eda00831-85df-4eac-b830-772ac7ca425e)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/8c863b11-8697-4d4f-af10-70e3f15b18f1)
+
+<h2>Languages</h2>
+
+Programming Language
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/eb753610-73c3-4905-ae9d-392ff62edac8)
+
+
+Markup Language
+
+Stylesheet Language
+
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/f0ae14bd-642d-48db-8abb-c3b71a59f48a)
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/dd6a52a3-5769-4880-8ca4-94fbddd7a14f)
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/6c541a3b-f024-4b11-8098-15141bcb21d1)
