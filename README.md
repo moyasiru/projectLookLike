@@ -60,10 +60,47 @@
 
 <br>
 
-* 강태현
+* 강태현(탐장,본인)
   - 회원관리
   - 관리자관리
   - 주소api
   - 세션
   - 상품등록
   - 프론트
+    
+* 안성준
+  - ERD
+  - 상품관리
+    
+* 장병경
+  - 로그인
+  - 로그아웃
+  - 회원가입
+    
+* 이선주
+  - 요구사항명세서
+  - ERD
+  - 판매관리
+  - 게시판관리,상품관리
+ 
+* 황병준
+  - 소셜 회원가입 로그인
+  - 회원 정보변경
+  - 프론트
+  - 상품 결제 기능
+  - 회원정보 관리
+
+<br>
+<br>
+
+
+><h2>순서도</h2>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/ae82d969-8584-4ca8-8b4d-71cfef550262)
+
+
+><h2>논리/물리 ERD</h2>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/666e0449-c108-4bf8-8b3f-e6234b6adf8e)
+
+
