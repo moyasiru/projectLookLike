@@ -236,3 +236,91 @@
 
 <br><br>
 
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/b76c8b08-0fd9-48d1-83a2-f4a0b3a8490b)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/acba25b4-b51e-4e56-a7c8-d3338483c79d)
+
+<br><br>
+
+* 리뷰에 답글 기능 구현
+* 주제별 검색기능
+
+
+<br><br>
+
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/0867cecf-83c4-44c8-8d88-a5d45d18625b)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/7d12f837-3a86-4f96-b983-bf07f5aa7179)
+
+<br>
+
+* 관리자 세션이 있을 때만 글쓰기 버튼 보이도록 구현
+* 주제별 검색, 최신 순 페이징 처리
+* 관리자만 등록,수정,삭제 할수 있도록 분기처리(일반 유저들은 답글 or 상세보기)
+
+<br>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/eddfa956-31bc-47c7-bb04-ffcb32a6bafd)
+
+* 장바구니,관심내역,주문내역,문의내역,내정보 클릭시 페이지 이동
+* 주문 처리 상태 확인
+
+<br>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/fc364a6e-2bc2-4e8b-aebf-2b5d19f8d4ad)
+
+* 회원 정보 수정 가능
+* 탈퇴 요청 시 비밀번호 확인 폼 생성(일치시 탈퇴가능)
+
+<br>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/7d4de7c0-6508-4762-ae45-ebe261b35ec9)
+* 관리자페이지
+* 직원,회원,상품 전체 목록 확인 가능
+* 관리자 권한에 따른 예외처리
+
+<br>
+
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/02335148-1dba-4333-8a3c-1dce90c88af6)
+
+* 카테고리별 상품 등록(카테고리 2차구현)
+* 사진 추가 버튼으로 다중 이미지 파일 업로드 가능
+* 상품 등록후 대표 이미지 썸네일로 출력
+* 상품별 링크를 통해 상세 설명 확인 가능
+
+<br>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/7741cba1-2a88-46b3-b91a-49eff7b1bf38)
+
+* 상품 등록 된 전체 리스트
+
+<br>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/91eb1ff3-dcdd-4f09-bb03-cb2907d12c04)
+
+* 수정
+* 삭제
+
+<br>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/b24ed4f5-b0d5-4376-9f72-702fb0f9023d)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/9bb18d07-cb4c-4cf2-9b8f-1f6f85816c8c)
+
+* 직원들의 정보를 변경하거나 조회할수 있도록 super 계정에만 권한 부여
+
+<br>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/20a363e0-17e6-473d-a461-4140c556cb52)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/52b9c677-c757-46d4-bc07-716650cae4d3)
+
+* 날짜 별로 조회 가능
+* 주문 상태 보내기를 통해 주문처리 가능
+* 주문번호 눌러서 상세보기
+
+<br>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/8719caee-fd3b-4bcb-84ad-2fbbfda2f234)
+
+* 판매현황 수정,삭제제
+
