@@ -140,7 +140,8 @@
 
 <br>
 
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/6fd7bb8d-9c32-4d0a-92c6-82e053fb7cd2)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/95eaf9a2-3a3a-4eee-bc7e-84623fa16918)
+
 
 <br><br>
 
@@ -149,11 +150,12 @@
 
 <br><br>
 
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/e61b1d06-eab0-4fa3-98ad-0a936f1ae40d)
 
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/f375bb92-a8d7-43b8-a00a-7e0c718a2659)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/f464d1e0-da85-433c-82e7-9a36cebffff5)
 
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/a467c077-a44f-4370-a71c-8862f28b270c)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/6f4e1685-4ce5-45d5-ae11-1f6813c648d2)
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/0e095cee-bf3c-49df-8b95-55da27849d9f)
 
 
 <br><br>
@@ -167,7 +169,9 @@
 
 <br><br>
 
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/82aebc4d-87a7-4bea-b43a-6acb88168fdd)
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/96460318-241c-4295-afdb-1ba8745f2c01)
+
 
 <br><br>
 
@@ -177,7 +181,8 @@
 
 <br><br>
 
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/47c44df7-27bb-4bd5-91f5-7965cc4a0ca8)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/36a0901b-369d-4131-9783-bbef35ffaa15)
+
 
 <br><br>
 
@@ -187,8 +192,7 @@
 
 <br><br>
 
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/ee6cf2f6-e896-4fe4-884b-ecce287fcfa5)
-
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/9dc48dcc-b3b4-43b8-8b22-48860b0afd5b)
 
 
 <br><br>
@@ -197,8 +201,9 @@
 * 개수에 따라 결제금액 변경
 * 결제하면 알림 창
 
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/935067c7-68a7-4961-b594-7b6461c2ce72)
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/1a321965-3568-464d-9e78-2bd8b6b22aed)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/1105f3b1-37a9-47b9-80f5-7a6d5c2af03c)
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/5c1266aa-2623-4c0c-bf17-1c5f8bf07899)
 
 <br><br>
 
@@ -238,7 +243,7 @@
 
 
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/b76c8b08-0fd9-48d1-83a2-f4a0b3a8490b)
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/acba25b4-b51e-4e56-a7c8-d3338483c79d)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/2a5e36b7-85bf-4e1c-89fe-9ffa50aca9df)
 
 <br><br>
 
@@ -274,7 +279,8 @@
 
 <br>
 
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/7d4de7c0-6508-4762-ae45-ebe261b35ec9)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/490814b8-a6c8-48c1-89f7-e07a301eb48a)
+
 * 관리자페이지
 * 직원,회원,상품 전체 목록 확인 가능
 * 관리자 권한에 따른 예외처리
@@ -282,7 +288,8 @@
 <br>
 
 
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/02335148-1dba-4333-8a3c-1dce90c88af6)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/24a2b3f8-1f49-4bbd-b691-009d499feed2)
+
 
 * 카테고리별 상품 등록(카테고리 2차구현)
 * 사진 추가 버튼으로 다중 이미지 파일 업로드 가능
@@ -291,13 +298,15 @@
 
 <br>
 
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/7741cba1-2a88-46b3-b91a-49eff7b1bf38)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/055f1e42-ca0c-4e25-aa41-860413abcc5f)
+
 
 * 상품 등록 된 전체 리스트
 
 <br>
 
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/91eb1ff3-dcdd-4f09-bb03-cb2907d12c04)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/9758fa8e-7a15-4d0f-bf03-489c11962099)
+
 
 * 수정
 * 삭제
