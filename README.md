@@ -107,7 +107,11 @@
 ><h2>프로젝트 구현</h2>
 <br>
 
-로그인동영상 위치
+
+https://github.com/moyasiru/projectLookLike/assets/130022940/b38ee69b-6507-4bd1-8496-bc38869281a3
+
+
+
 
 * 소셜 로그인(KaKao, Navaer) API
 * 아이디 찾기/ 비밀번호 찾기
@@ -128,7 +132,7 @@
 
 <br>아이디 찾기는 회원가입 한 이름과 이메일을 입력하면 일치하는 아이디를 찾고 alert 뛰워줬습니다.<br>
 
-<br>메인페이지 동영상 위치<br>
+https://github.com/moyasiru/projectLookLike/assets/130022940/234c86c7-9ddc-4e57-8201-70efbec73fdb
 
 <br>
 
