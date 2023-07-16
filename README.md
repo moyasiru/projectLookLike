@@ -4,7 +4,7 @@
 
 ><h1>프로젝트 소개</h1>
   
-<h3>저희 홈페이지 LookLike는 온라인쇼핑몰로 관리자가 상품등록을 하면 일반 유저들이 상품을 사는 일반적인 옷 쇼핑몰입니다.</h3>
+<h3>LookLike는 온라인쇼핑몰로 관리자가 상품등록을 하면 일반 유저들이 상품을 사는 일반적인 옷 쇼핑몰입니다.</h3>
 
 수업내용에 주로 배운 Spring, Maven, JSP 등을 팀원들의 합의 하에 진행 하였고, 추가적으로 오픈 api 를 이용하여 주소, 결제 쪽에 사용하여 구현해보았습니다.
 
@@ -55,67 +55,38 @@
 
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/37c15f37-442b-4c35-b09d-c624486369e0)
 
-><h1>팀원 소개</h1>
-
+><h1>담당 구현 파트</h1>
 
 <br>
 
-* 강태현(탐장,본인)
-  - 회원관리
-  - 관리자관리
+  - 팀장으로써 팀원들과 의견조율 및 개발환경,설계
+  - 회원정보 찾기
+  - 회원관리 
   - 주소api
+  - 관리자관리
   - 세션
   - 상품등록
   - 프론트
-    
-* 안성준
-  - ERD
-  - 상품관리
-    
-* 장병경
-  - 로그인
-  - 로그아웃
-  - 회원가입
-    
-* 이선주
-  - 요구사항명세서
-  - ERD
-  - 판매관리
-  - 게시판관리,상품관리
- 
-* 황병준
-  - 소셜 회원가입 로그인
-  - 회원 정보변경
-  - 프론트
-  - 상품 결제 기능
-  - 회원정보 관리
+
 
 <br>
 <br>
-
-
-><h2>순서도</h2>
-
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/ae82d969-8584-4ca8-8b4d-71cfef550262)
-
-
-><h2>논리/물리 ERD</h2>
-
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/666e0449-c108-4bf8-8b3f-e6234b6adf8e)
-
 
 ><h2>프로젝트 구현</h2>
+
 <br>
 
 
 https://github.com/moyasiru/projectLookLike/assets/130022940/b38ee69b-6507-4bd1-8496-bc38869281a3
 
 
+* 로그인 화면
+   - 회원가입 폼에서 입력을 한값들을 ajax 통신으로 즉각적으로 회원가입을 할수 있도록 구현
+   - 소셜로그인 (KaKao,Naver) API
+   - 주소 (Daum) API 를 이용해 검색한 주소 값을 가져오게 구현
+   - 회원정보 찾기
 
 
-* 소셜 로그인(KaKao, Navaer) API
-* 아이디 찾기/ 비밀번호 찾기
-* 주소 API
 <br>
 
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/a27685d2-3422-45ee-828b-6069ecff5f77)
@@ -336,6 +307,16 @@ https://github.com/moyasiru/projectLookLike/assets/130022940/234c86c7-9ddc-4e57-
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/8719caee-fd3b-4bcb-84ad-2fbbfda2f234)
 
 * 판매현황 수정,삭제
+
+
+><h2>순서도</h2>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/ae82d969-8584-4ca8-8b4d-71cfef550262)
+
+
+><h2>논리/물리 ERD</h2>
+
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/666e0449-c108-4bf8-8b3f-e6234b6adf8e)
 
 
 ><h2>후기</h2>
