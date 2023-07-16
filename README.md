@@ -77,13 +77,12 @@
 <br>
 
 
-
-<img src="https://github.com/moyasiru/projectLookLike/assets/130022940/45bc44ce-c621-42c4-93db-0b2c525fa346">
+<img src="https://github.com/moyasiru/projectLookLike/assets/130022940/d300320b-463a-4137-89b5-aaa54827cbcb" width="800px">
 
 
 
 * 로그인 화면
-   - 회원가입 폼에서 입력을 한값들을 Ajax 방식으로 즉각적으로 회원가입을 할수 있도록 구현
+   - 회원가입 폼에서 입력한값들을 Ajax 방식으로 즉각적으로 회원가입을 할수 있도록 구현
    - 소셜로그인 (KaKao,Naver) API
    - 주소 (Daum) API 를 이용해 검색한 주소 값을 가져오게 구현
 
