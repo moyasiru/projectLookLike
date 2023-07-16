@@ -59,7 +59,8 @@
 
 <br>
 
-  - 팀장으로써 팀원들과 의견조율 및 개발환경,설계
+  - 팀장
+  - 팀원들과 의견조율 및 개발환경,설계
   - 회원정보 찾기
   - 회원관리 
   - 주소api
@@ -151,53 +152,15 @@
   
 * 장바구니,관심내역
   - 각각 해당 상품이 추가 되어 myPage에서 확인 가능
-  - 
+  
 * 상품에 대한 QnA 게시판
-  - 해당 상품에 대한 QnA 게시판을 확인할수있음
+  - 해당 상품에 대한 QnA 게시판 조회 및 글작성 가능
     
 * 주제별 검색기능
-
+   - Mybatis 동적 쿼리문을 이용
 <br><br>
 
 
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/96460318-241c-4295-afdb-1ba8745f2c01)
-
-
-<br><br>
-
-* 해당 사진 썸네일 출력
-* 수량 개수에 맞춰 db 에 저장 (환불시 재고 Update)
-* 삭제
-
-<br><br>
-
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/36a0901b-369d-4131-9783-bbef35ffaa15)
-
-
-<br><br>
-
-* 배송지 미입력시 주문처리 안되도록 유효성 검사
-* 주소 저장 클릭시 회원정보 변경
-* 삭제
-
-<br><br>
-
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/9dc48dcc-b3b4-43b8-8b22-48860b0afd5b)
-
-
-<br><br>
-
-* 결제수단 선택해서 결제 가능
-* 개수에 따라 결제금액 변경
-* 결제하면 알림 창
-
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/1105f3b1-37a9-47b9-80f5-7a6d5c2af03c)
-
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/5c1266aa-2623-4c0c-bf17-1c5f8bf07899)
-
-<br><br>
-
-* 카카오페이, 한국정보통신결제를 통해 결제기능 구현
 
 <br><br>
 
@@ -205,75 +168,38 @@
 
 <br><br>
 
-* 주문 상태가 배송완료 가 되면 리뷰작성 가능할수 있도록 구현(회원주문 -> 관리자가 주문상태 처리-> 회원 리뷰작성 권한)
+* 주문 상태가 배송완료 가 되면 리뷰작성 가능할수 있도록 구현
+  - 회원주문 -> 관리자가 주문상태 처리-> 회원 리뷰작성 권한 생성
 * 환불 신청 요청시 관리자가 확인후 주문상태 처리 및 재고 수량 Update
-* 주문 상세보기
 
 <br><br>
 
-
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/3d34db9c-c6ab-41bf-a02b-f882ddc6461a)
-
-<br><br>
-
-* 정보 확인 가능
-* 주문 상태 연동
-
-<br><br>
-
-
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/73c0851d-3869-4eb1-a512-ee9e38460cee)
-
-<br><br>
-
-* 별점 (총 개수의 별점 평균치를 구하여 기능 구현)
-* 사진 업로드 기능
-
-<br><br>
-
-
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/b76c8b08-0fd9-48d1-83a2-f4a0b3a8490b)
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/2a5e36b7-85bf-4e1c-89fe-9ffa50aca9df)
-
-<br><br>
-
-* 리뷰에 답글 기능 구현
-* 주제별 검색기능
-
-
-<br><br>
 
 
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/0867cecf-83c4-44c8-8d88-a5d45d18625b)
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/7d12f837-3a86-4f96-b983-bf07f5aa7179)
 
+
 <br>
 
-* 관리자 세션이 있을 때만 글쓰기 버튼 보이도록 구현
+
+* Jquery를 사용하여 관리자 세션과 일번 고객 세션 분기처리
+   - 관리자는 글장석,수정,삭제
+   - 일반 고객들은 답글,상세보기
+ 
+    
 * 주제별 검색, 최신 순 페이징 처리
-* 관리자만 등록,수정,삭제 할수 있도록 분기처리(일반 유저들은 답글 or 상세보기)
+
 
 <br>
 
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/eddfa956-31bc-47c7-bb04-ffcb32a6bafd)
-
-* 장바구니,관심내역,주문내역,문의내역,내정보 클릭시 페이지 이동
-* 주문 처리 상태 확인
-
-<br>
-
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/fc364a6e-2bc2-4e8b-aebf-2b5d19f8d4ad)
-
-* 회원 정보 수정 가능
-* 탈퇴 요청 시 비밀번호 확인 폼 생성(일치시 탈퇴가능)
-
-<br>
 
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/490814b8-a6c8-48c1-89f7-e07a301eb48a)
 
 * 관리자페이지
-* 직원,회원,상품 전체 목록 확인 가능
-* 관리자 권한에 따른 예외처리
+  - 직원,회원,상품 전체 목록 확인 가능
+  - 관리자 권한에 따른 예외처리 (직원 정보 수정,삭제)
+
 
 <br>
 
@@ -281,25 +207,30 @@
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/24a2b3f8-1f49-4bbd-b691-009d499feed2)
 
 
-* 카테고리별 상품 등록(카테고리 2차구현)
-* 사진 추가 버튼으로 다중 이미지 파일 업로드 가능
-* 상품 등록후 대표 이미지 썸네일로 출력
-* 상품별 링크를 통해 상세 설명 확인 가능
+* 상품 등록
+  - 카테고리별 상품 등록
+  - 사진 추가 버튼으로 다중 이미지 파일 업로드 가능
+  - 정규화를 통해 확장자 체크 (jpg,png 만 가능하도록 구현)
+  - 파일 사이즈 분기처리
+  - Ajax 방식으로 DB에 저장
 
 <br>
 
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/055f1e42-ca0c-4e25-aa41-860413abcc5f)
 
 
-* 상품 등록 된 전체 리스트
+* 상품 리스트
+  - 대표 이미지 썸네일로 출력
+  - 상품별 링크를 통해 상세 설명 확인 가능
 
 <br>
 
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/9758fa8e-7a15-4d0f-bf03-489c11962099)
 
 
-* 수정
-* 삭제
+* 상품 상세보기
+  - 수정,삭제 기능 구현
+  
 
 <br>
 
@@ -313,9 +244,11 @@
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/20a363e0-17e6-473d-a461-4140c556cb52)
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/52b9c677-c757-46d4-bc07-716650cae4d3)
 
-* 날짜 별로 조회 가능
-* 주문 상태 보내기를 통해 주문처리 가능
-* 주문번호 눌러서 상세보기
+* 관리자 주문 내역
+  - 날짜 별로 조회 가능 (JQuery 플러그인 사용)
+  - 주문 상태 보내기를 통해 주문처리 가능
+  - 주문번호 눌러서 상세보기
+
 
 <br>
 
@@ -337,8 +270,12 @@
 ><h2>후기</h2>
 
 <h4>저는 새로운 언어와 툴을 사용하기전에 배운것을 이해하고  적재적소에 잘 사용할 수 있는 능력을 길러보고 싶었습니다. 이번 프로젝트를 통해 이떄까지 배운 것을 한번 돌아본 느낌이였습니다.
-팀원들 간의 의사소통과 의견조율을 하며 작업을 진행하고, 문제를 풀어나간다는 점에서 팀워크가 중요하다는것을 느끼게 되었습니다. 프로젝트를 진행함에 있어 기능을 구현하는 과정이 순탄하진 않았지만, 문제와 오류들을 겪어보면서 배운 것을 다시 찾아보거나 공부하면서 습득한 점도 많다고 생각합니다.<br>
-이번 프로젝트가 끝남으로써 이제 새로운 개발환경과 기술로 프로젝트를 진행하고 싶은 생각이 생깁니다. <br>
-spring boot,thymeleaf,aws 와 최근에 배운 spring security 등을 이용해
-다뤄보지 않았던 라이브러리에 대해서 공부하며 프로젝트에 적용하는것에 의미를두고 작업을진행하고 싶은 생각입니다.
+
+
+<br>
+
+  
+팀원들 간의 의사소통과 의견조율을 하며 작업을 진행하고, 문제를 풀어나간다는 점에서 팀워크가 중요하다는것을 느끼게 되었습니다. 프로젝트를 진행함에 있어 기능을 구현하는 과정이 순탄하진 않았지만, 문제와 오류들을 겪어보면서 배운 것을 다시 찾아보거나 공부하면서 습득한 점도 많다고 생각합니다.
+<br>
+이번 프로젝트가 끝남으로써 spring boot,thymeleaf,aws 와 최근에 배운 spring security 등을 이용해 다뤄보지 않았던 라이브러리와 언어에 대해서 공부하며 프로젝트에 적용하는것에 의미를두고 또다른 작업을진행하고 싶은 생각입니다.
 </h4>
