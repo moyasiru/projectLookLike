@@ -2,6 +2,12 @@
 
 <br>
 
+관련 ppt입니다.
+
+[LookLike.pdf](https://github.com/moyasiru/projectLookLike/files/12064172/LookLike.pdf)
+
+
+
 ><h1>프로젝트 소개</h1>
   
 <h3>LookLike는 온라인쇼핑몰로 관리자가 상품등록을 하면 일반 유저들이 상품을 사는 일반적인 옷 쇼핑몰입니다.</h3>
