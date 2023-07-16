@@ -77,31 +77,31 @@
 <br>
 
 
-https://github.com/moyasiru/projectLookLike/assets/130022940/b38ee69b-6507-4bd1-8496-bc38869281a3
+
+<img src="https://github.com/moyasiru/projectLookLike/assets/130022940/45bc44ce-c621-42c4-93db-0b2c525fa346">
+
 
 
 * 로그인 화면
-   - 회원가입 폼에서 입력을 한값들을 ajax 통신으로 즉각적으로 회원가입을 할수 있도록 구현
+   - 회원가입 폼에서 입력을 한값들을 Ajax 방식으로 즉각적으로 회원가입을 할수 있도록 구현
    - 소셜로그인 (KaKao,Naver) API
    - 주소 (Daum) API 를 이용해 검색한 주소 값을 가져오게 구현
-   - 회원정보 찾기
 
 
 <br>
 
 ![image](https://github.com/moyasiru/projectLookLike/assets/130022940/a27685d2-3422-45ee-828b-6069ecff5f77)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/9d4b9769-34c7-4165-8c2f-19523b3dfd1f)
+![image](https://github.com/moyasiru/projectLookLike/assets/130022940/25a33882-83ab-485d-beaa-83c128a64957)
 
 <br>
 
-아이디와 이메일이 일치하는 정보가 있으면 메일로 인증번호 전송<br>
+  * 회원정보 찾기
+     - 아이디와 이메일을 입력하면 Ajax 방식으로 DB에 조회 한후 일치하는 DB가 있으면 아이디 출력
 
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/9d4b9769-34c7-4165-8c2f-19523b3dfd1f)
+메일에서 받은 인증번호를 클릭하면 임시비밀번호가 생성되고 복사할수 있게 구현을 해놨습니다.
 
-<br>메일에서 받은 인증번호를 클릭하면 임시비밀번호가 생성되고 복사할수 있게 구현을 해놨습니다.<br>
-
-![image](https://github.com/moyasiru/projectLookLike/assets/130022940/25a33882-83ab-485d-beaa-83c128a64957)
-
-<br>아이디 찾기는 회원가입 한 이름과 이메일을 입력하면 일치하는 아이디를 찾고 alert 뛰워줬습니다.<br>
+아이디 찾기는 회원가입 한 이름과 이메일을 입력하면 일치하는 아이디를 찾고 alert 뛰워줬습니다.
 
 https://github.com/moyasiru/projectLookLike/assets/130022940/234c86c7-9ddc-4e57-8201-70efbec73fdb
 
