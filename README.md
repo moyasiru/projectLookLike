@@ -6,7 +6,10 @@
 
 [LookLike.pdf](https://github.com/moyasiru/projectLookLike/files/12064172/LookLike.pdf)
 
+<br>
 
+관련 노션 주소입니다.
+https://www.notion.so/Team-Project-LookLike-834ee634169f4eb0ae146513f668e238?pvs=4
 
 ><h1>프로젝트 소개</h1>
   
